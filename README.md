@@ -1,10 +1,13 @@
 # qr-decode
 **Prerequisites**
 
-Need to install the following:
+Install the following:
+
 1. Python3.x
 2. libzbar0
+
 Install the following Python libraries:
+
 1. Pillow
 2. pyzbar
 
