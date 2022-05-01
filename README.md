@@ -3,12 +3,12 @@
 
 Install the following:
 
-1. Python3.x
-2. libzbar0
+1. Python3.x: Any version of python from python 3.
+2. libzbar0: Open source QR code / bar code scanner and decoder.
 
 Install the following Python libraries:
 
-1. Pillow
+1. pillow
 2. pyzbar
 
 **Instructions to run the code**
